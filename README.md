@@ -1,16 +1,10 @@
 # tetris_game
 
-A new Flutter project.
 
-## Getting Started
+Tetris Game Flutter
 
-This project is a starting point for a Flutter application.
+Using Flutter 3.3.8 + Provider
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_1669277271](https://user-images.githubusercontent.com/51359128/203731007-a8cd9e24-d04a-41d6-be3a-a97e617eb966.png)
+![Screenshot_1669277312](https://user-images.githubusercontent.com/51359128/203731010-cbefdc57-fb11-4678-8766-27acbf7140a3.png)
+![Screenshot_1669277822](https://user-images.githubusercontent.com/51359128/203731013-77adea83-3702-4109-8018-fd7d1285222b.png)
